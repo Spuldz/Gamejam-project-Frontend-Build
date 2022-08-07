@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b322e6f2.css",
+    "main.js": "/static/js/main.295886de.js",
+    "static/media/StoreBackground.png": "/static/media/StoreBackground.0a49cee10a785d7b90e1.png",
+    "static/media/itemshopBackground.png": "/static/media/itemshopBackground.49316229177bc1be1723.png",
+    "static/media/shop.png": "/static/media/shop.47ef50499ba3ec34101c.png",
+    "static/media/arenaBackground.jpg": "/static/media/arenaBackground.53bd7c5ef96c5cb4dce5.jpg",
+    "static/media/doneButton.png": "/static/media/doneButton.d03c707b91a6cf6d519d.png",
+    "static/media/HealingPotion.png": "/static/media/HealingPotion.8f3b8ffab0c9538dbce4.png",
+    "static/media/enemy3.png": "/static/media/enemy3.d72b8bfb652f4fdf2a25.png",
+    "static/media/enemy1.png": "/static/media/enemy1.cab71c7d1e8f1b839e1e.png",
+    "static/media/StoreCoin.png": "/static/media/StoreCoin.b63a51e066220b3131c7.png",
+    "static/media/title-background.jpg": "/static/media/title-background.1fe556570f9a16bbc05a.jpg",
+    "static/media/StoreCoin++.png": "/static/media/StoreCoin++.a0b097f6bb9d2665d1b6.png",
+    "static/media/StoreCoin+.png": "/static/media/StoreCoin+.af23681a92cf847968a8.png",
+    "static/media/customizationPageBackground.jpg": "/static/media/customizationPageBackground.ad6fc23adf9d73aca1ed.jpg",
+    "index.html": "/index.html",
+    "main.b322e6f2.css.map": "/static/css/main.b322e6f2.css.map",
+    "main.295886de.js.map": "/static/js/main.295886de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b322e6f2.css",
+    "static/js/main.295886de.js"
+  ]
+}
